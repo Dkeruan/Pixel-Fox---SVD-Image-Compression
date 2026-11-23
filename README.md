@@ -2,6 +2,7 @@
 
 A small Streamlit app for exploring low-rank image approximations. Upload a grayscale or color image, choose the number of singular values `k`, compare the reconstruction with the original, inspect the log singular-value spectrum, and download the result.
 
+![Pixel Fox SVD image compression app](assets/app-screenshot.png)
 
 ## Run locally
 
